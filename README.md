@@ -1,3 +1,4 @@
+[![Generate Snake](https://github.com/Disha-kp/Disha-kp/actions/workflows/snake.yml/badge.svg)](https://github.com/Disha-kp/Disha-kp/actions/workflows/snake.yml)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Disha-kp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=C8154B" alt="GitHub Stats" />
 </p>

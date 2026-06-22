@@ -28,7 +28,7 @@ jobs:
           github_user_name: Disha-kp
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#ffca26&color_dots=#d42518,#f3e8cc,#19532b,#f86015,#9abc04
 
       # Push the cell animations to the output branch
       - name: push github-contribution-grid-snake.svg to the output branch

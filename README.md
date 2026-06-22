@@ -9,3 +9,6 @@
 </p>
 
 <p align="center"><b>ONE COMMIT AT A TIME</b></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Disha-kp/Disha-kp/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Game" />
+</p>
